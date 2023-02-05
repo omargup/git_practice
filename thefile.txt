@@ -1,2 +1,0 @@
-This is a file created in branch1
-Another line
